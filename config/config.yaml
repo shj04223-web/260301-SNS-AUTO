@@ -1,0 +1,9 @@
+notion:
+  database_id: "${NOTION_DATABASE_ID}"
+  vendor_property_type: "rich_text"  # or "title"
+  property_mapping:
+    deadline: "마감일"
+    vendor: "체험단업체"
+    status: "진행상태"
+    campaign_info: "캠페인정보"
+    posting_info: "포스팅 정보"
